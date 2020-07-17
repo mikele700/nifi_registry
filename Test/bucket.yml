@@ -1,4 +1,7 @@
 flows:
+  3a94a8ab-b173-481a-bbbb-e7e1d46adc99: {ver: 1, file: CSVtoJSON.snapshot, comments: '',
+    author: anonymous, created: 1594980267904, flowName: CSVtoJSON, flowDesc: Transform
+      csv files into json}
   c16fb3db-ee1d-4762-83b0-b3d7f002a02d: {ver: 1, file: FirstGitFlow.snapshot, comments: '',
     author: anonymous, created: 1594980177339, flowName: FirstGitFlow, flowDesc: Get
       and Put file}
