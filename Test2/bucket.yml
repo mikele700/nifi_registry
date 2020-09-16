@@ -1,5 +1,7 @@
 flows:
   fa01a809-465f-46ec-9438-4d08cd926ec6: {ver: 2, file: ciao.snapshot, comments: v2,
     author: anonymous, created: 1595856677548, flowName: ciao, flowDesc: ''}
+  904ec1a3-a98e-407b-a473-c8540b976b4b: {ver: 1, file: NewCiao.snapshot, comments: '',
+    author: anonymous, created: 1600285473684, flowName: NewCiao, flowDesc: ''}
 layoutVer: 1
 bucketId: 68f02b31-38a7-4744-9f27-aa168e5cc08f
